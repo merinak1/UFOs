@@ -19,8 +19,8 @@ The analysis caters to users' interest by only displaying the UFOs sighting info
 * The data results cannot be sorted by any of the fields.
 
 This can be resolved in future version in few of ways:
-* Add a text on the top of the form directing users to enter text in the filter only in lowercase.
+* Add a text on top of the form directing users to enter text in the filter in lowercase only.
 * Create a function to check the value entered for text fields and if it is in uppercase, display a message to enter in lowercase. 
 * Convert the information entered on data to lowercase by using Javascript toLowerCase() function before adding into the filters array.
-* Develop ability to sort data by using by using Javascript sort() for user chosen fields.
+* Develop ability to sort data by using Javascript sort() function for user chosen fields.
  

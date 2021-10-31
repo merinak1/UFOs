@@ -7,11 +7,11 @@ Dana have created the webpage to display UFO sightings data stored in a JavaScri
 ### Results: 
 When the website visitors first enters the site, all UFOs sighting informations is displayed. On the left hand bottom area of the site has options to further filter UFOs sighting data as shown below:  
 
-![myimage-alt-tag](/Resources/FilterSearch.png)
+![myimage-alt-tag](/resources/FilterSearch.png)
 
 The website user may enter choose to enter search filter criteria on either one or all of the fields. For example if the users is interested in the finding the UFO sightings in the California, they may enter **ca** on the text box next to Enter a State and press Enter button on keyboard. The website will return only infomation pertaining to CA. It important to enter the data in filters in lowercase only.
 
-![myimage-alt-tag](/Resources/SearchbyState-CA.png)
+![myimage-alt-tag](/resources/SearchbyState-CA.png)
 
 ### Summary:
 The analysis caters to users' interest by only displaying the UFOs sighting information they have entered very quickly. The dynamic page answers users questions and curiositly quickly. However there are few major flaws to this new design as listed below
